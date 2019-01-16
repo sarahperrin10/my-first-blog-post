@@ -9,8 +9,8 @@ This is a work completed by Scott Snibbe in 1998 called “Boundary Functions.�
 Here's a link to the piece (https://www.snibbe.com/digital-art#/projects/interactive/boundaryfunctions/)
 
 ### Art Piece 2
-![Sarah Perrin](images/Picture3.png?raw=true)
-![Sarah Perrin](images/Picture4.png?raw=true)
+![Sarah Perrin](images/Picture3.png?raw=true "Sarah Perrin")
+![Sarah Perrin](images/Picture4.png?raw=true "Sarah Perrin")
 This is a work called “The Art of Dying” by Dream Logic, which was completed in October 2016 and was collaborated on by over two-dozen artists. Each artist was asked to imagine his or her own vision of mortality through virtual and augmented reality. The show had about 600 participants over three nights. I was drawn to this piece because of the collaborative nature of it, and how participants were able to choose their own experience, in a sense, and also get different takes on the same topic. 
 
 Here's a link to the piece (https://www.dreamlogicart.com/the-art-of-dying/c2okf9r3ylyu3d1t2x03gglovkcuki)
